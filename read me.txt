@@ -1,0 +1,12 @@
+Data for the following paper as included here
+
+Adsorption and Reaction of SO2, H2S, and N2O on Graphene/Silicon(111): Successful Quest for a Metal-Free Catalyst – Theory and Experiment
+
+Abdolvahab Seif,a,b Thomas Stach,c Trung T. Pham,d Md Arif Uddin,c Jean-François Colomer,d Robert Sporken,d Alberto Ambrosetti,a Pier Luigi Silvestrelli,a Uwe Burghaus*c
+a) Dipartimento di Fisica e Astronomia, Università di Padova, Via Marzolo 8, 35131, Padova, Italy
+b) Department of Chemistry, University of Turin, Via Pietro Giuria 7, 10125, Turin, Italy
+c) Department of Chemistry and Biochemistry, North Dakota State University (NDSU), 1311 Albrecht Blvd, Sugihara Hall, Fargo, ND 58102, USA
+d) Namur Institute of Structured Matter (NISM), Department of Physics, University of Namur, 61 Rue de Bruxelles, B-5000 Namur, Belgium
+
+* Uwe Burghaus
+Email:  uwe.burghaus@ndsu.edu
