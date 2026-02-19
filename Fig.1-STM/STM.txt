@@ -1,0 +1,2 @@
+STM images from Fig. 1
+These files can be opened with WSxM software (I. Horcas, R. Fernández, J.M. Gómez-Rodríguez, J. Colchero, J. Gómez-Herrero and A.M. Baró. Review of Scientific Instruments 78, 013705 (2007))
